@@ -30,7 +30,7 @@ body{
 }
 
 .medium-txt{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 /* HEADER */
@@ -73,7 +73,7 @@ div.column{
 }
 
 div.column div.img{
-    height: 500px;
+    height: 650px;
     background-size: cover;
 }
 
@@ -112,12 +112,21 @@ div.img div.banner{
 span.discount{
     background-color: red;
     color: white;
-    padding: 2px 4px;
+    padding: 5px 4px;
 }
 
 span.bonus{
     background-color: green;   
     color: white;
-    padding: 2px 4px;
+    padding: 5px 4px;
     margin-left: 5px;
+}
+
+.item-price{
+    color: red;
+}
+
+.item-price span{
+    color: black;
+    text-decoration: line-through;
 }
