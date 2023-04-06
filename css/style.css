@@ -64,7 +64,7 @@ div.logo img{
 /* ----MAIN----- */
 
 div.row{
-    padding-top: 3rem;
+    padding: 3rem 0;
 }
 
 div.column{
@@ -165,4 +165,27 @@ span.bonus{
 .item-price span{
     color: black;
     text-decoration: line-through;
+}
+
+/* FOOTER */
+
+footer{
+    height: 10rem;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+footer>div{
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer div.right-foot{
+    line-height: 2.5rem;
+}
+
+div.logo-foot img{
+    margin-top: 0.6rem;
+    height: 2rem;
 }
