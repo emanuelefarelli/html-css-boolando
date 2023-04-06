@@ -101,6 +101,29 @@ div.column div.img-3:hover{
     background-image: url(../img/3b.webp);
 }
 
+div.column div.img-4{
+    background-image: url(../img/4.webp);
+}
+
+div.column div.img-4:hover{
+    background-image: url(../img/4b.webp);
+}
+
+div.column div.img-5{
+    background-image: url(../img/5.webp);
+}
+
+div.column div.img-5:hover{
+    background-image: url(../img/5b.webp);
+}
+
+div.column div.img-6{
+    background-image: url(../img/6.webp);
+}
+
+div.column div.img-6:hover{
+    background-image: url(../img/6b.webp);
+}
 
 div.column ul{
     list-style-type: none;
