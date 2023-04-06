@@ -81,13 +81,26 @@ div.column div.img-1{
     background-image: url(../img/1.webp);
 }
 
+div.column div.img-1:hover {
+    background-image: url(../img/1b.webp);
+}
+
 div.column div.img-2{
     background-image: url(../img/2.webp);
+}
+
+div.column div.img-2:hover{
+    background-image: url(../img/2b.webp);
 }
 
 div.column div.img-3{
     background-image: url(../img/3.webp);
 }
+
+div.column div.img-3:hover{
+    background-image: url(../img/3b.webp);
+}
+
 
 div.column ul{
     list-style-type: none;
