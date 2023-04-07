@@ -55,10 +55,15 @@ header>div{
     align-items: center;
 }
 
-
 div.logo img{
     height: 2.5rem;
     vertical-align: middle;
+}
+
+header .header-img{
+    height: 2rem;
+    width: 2rem;
+    margin-left: 0.5rem;
 }
 
 /* ----MAIN----- */
@@ -136,6 +141,10 @@ div.img div.heart{
     font-size: 2rem;
     background-color: white;
     padding: 5px 10px;
+}
+
+div.img div.heart:hover{
+    color: red;
 }
 
 div.img div.banner{
